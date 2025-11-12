@@ -1,0 +1,5 @@
+# Do not commit build artifacts or large images
+*.iso
+*.img
+*.log
+build/

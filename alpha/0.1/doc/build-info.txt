@@ -1,0 +1,4 @@
+Magna Linux Alpha 0.1
+Build date: 11/11/25
+Base: Ubuntu 24.04.3 LTS
+Builder: The Magna Foundation Employee #0
